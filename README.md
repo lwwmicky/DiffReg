@@ -10,7 +10,7 @@ DiffReg is a tool to predict disease genes based on SNP-splicing association alt
 
 # 3. usage
 
-refer to [runExample.sh](https://github.com/genemine/DiffReg/blob/master/runExample.sh)
+Here we provide a run example. Data of the run example put in directory [./runExample/](https://github.com/genemine/DiffReg/tree/master/runExample), and the run command has written in [runExample.sh](https://github.com/genemine/DiffReg/blob/master/runExample.sh)
 
 ## 3.1 details of input
 
