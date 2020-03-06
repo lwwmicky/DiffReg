@@ -10,6 +10,8 @@ DiffReg is a tool to predict disease genes based on SNP-splicing association alt
 
 # 3. usage
 
+refer to [runExample.sh](https://github.com/genemine/DiffReg/blob/master/runExample.sh)
+
 ## 3.1 details of input
 
 To run this tool, the following input data have to prepared in specific format.
