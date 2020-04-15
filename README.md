@@ -1,6 +1,6 @@
 # 1. DiffReg
 
-DiffReg is a tool to predict disease genes based on SNP-splicing association altering between case and control groups. DiffReg takes 4 input files : (1) genotype data(single nucleotide polymorphism,SNP), providing SNP type for every samples. (2) transcript isoform expression data, providing all isoforms RPKM values for the same samples. (3) gene location data, providing gene id, chromosome number, gene start and end position of isoforms corresponding gene . (4)samples information, providing grouping information of samples in genotype and isoform expression data.
+DiffReg is a tool to predict disease genes based on SNP-splicing association altering between case and control groups. DiffReg takes 4 input files : (1) genotype data(single nucleotide polymorphism,SNP), providing SNP type for every samples. (2) transcript isoform expression data, providing all isoforms RPKM values for the same samples. (3) gene location data, providing gene id, chromosome number, gene start and end position of isoforms corresponding gene . (4)samples information, providing grouping information of samples in genotype and isoform expression data
 
 
 # 2. Dependencies
